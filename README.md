@@ -1,2 +1,2 @@
 # myFirst-demo
-This is my first git hum repos
+This is my first git  repos
