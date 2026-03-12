@@ -1,2 +1,3 @@
 # myFirst-demo
-This is my first git  repos
+This is my first git  repos.
+Author : Amit 
